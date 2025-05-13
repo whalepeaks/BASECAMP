@@ -33,15 +33,15 @@
 - 예외 상황이 단순 수정이 아니라 장애 해결 등 중요한 수정이라면, 사후 리뷰를 진행한다.
 ## 커밋 로그 작성 규칙
 - 깃허브가 권장하는 아래의 규칙을 따른다.
-```Don’t end your commit message with a period.````
-(커밋 메시지를 마침표로 끝내지 마라. 커밋 메시지는 제목에 해당하고 제목에는 마침표를 쓰지 않는다.)
-```Keep your commit messages to 50 characters or less. Add extra detail in the extended description window if necessary. This is located just below the subject line.```
-(커밋 메시지를 50글자 이내로 유지하고 필요하다면 자세한 설명은 디스크립션 윈도우를 이용하라.)
-```Use active voice. For example, "add" instead of "added" and "merge" instead of "merged".```
-(능동적인 표현을 사용해라. "추가됐다", "수정됐다" 가 아니라 "추가했다", "수정했다" 를 써라. 아니면 단순히 "추가", "수정" 이라는 명사를 쓸 수도 있다.)
-```Think of your commit as expressing intent to introduce a change.```
-(커밋 메시지에 코드의 변화를 소개하는 당신의 의지를 담아라.)
-커밋 로그 형식은 "커밋로그 #이슈번호" 형식으로 작성한다.
+- Don’t end your commit message with a period.
+- (커밋 메시지를 마침표로 끝내지 마라. 커밋 메시지는 제목에 해당하고 제목에는 마침표를 쓰지 않는다.)
+- Keep your commit messages to 50 characters or less. Add extra detail in the extended description window if necessary. This is located just below the subject line.
+- (커밋 메시지를 50글자 이내로 유지하고 필요하다면 자세한 설명은 디스크립션 윈도우를 이용하라.)
+- Use active voice. For example, "add" instead of "added" and "merge" instead of "merged".
+- (능동적인 표현을 사용해라. "추가됐다", "수정됐다" 가 아니라 "추가했다", "수정했다" 를 써라. 아니면 단순히 "추가", "수정" 이라는 명사를 쓸 수도 있다.)
+- Think of your commit as expressing intent to introduce a change.
+- (커밋 메시지에 코드의 변화를 소개하는 당신의 의지를 담아라.)
+- 커밋 로그 형식은 "커밋로그 #이슈번호" 형식으로 작성한다.
 ## 글쓰기 스타일 가이드
 - 이슈는 경어체를 사용한다. 이슈는, 해당 이슈와 관계된 구성원간의 토론의 성격이 강하다. 글을 통한 공식적인 토론이라는 점에서 경어체로 사용한다. 기본 문체는 경어체를 사용하고 필요에따라 개조식으로 정리한다. 상대방에게 예의있게 이메일을 쓴다고 생각하면 된다.
 - 위키는 평어체를 사용한다. 위키는, 정리된 문서라는 점에서 불필요하고 모호한 표현은 배제하고 평어체로 명료하게 작성한다.
